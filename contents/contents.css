@@ -1,0 +1,19 @@
+body {
+  font-family: "Noto Serif", serif;
+}
+
+div {
+  cursor: context-menu;
+}
+
+.huge-text {
+  line-height: 16rem;
+  font-size: 24rem;
+}
+
+.overlay-image {
+  z-index: 10;
+  position: absolute;
+  height: 126px;
+  width: 75px;
+}
